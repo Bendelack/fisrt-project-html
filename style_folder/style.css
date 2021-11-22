@@ -77,9 +77,16 @@ header#header1 > button{
     /*vertical-align: middle;*/
 }
 
+#image_two:hover{
+    width: 20%;
+}
+
 .image_three{
     width: 30%;
 }
+
+.image_three:hover{
+    width: 35%}
 
 #mail{
     text-decoration: none;
